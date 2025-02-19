@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science is commonly applied to psychology. Not only is 
+careful experimental design particularly important, but careful statistical analysis of well organized 
+data is vital since topics in this field are often sensitive.
