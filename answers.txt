@@ -6,3 +6,9 @@ branches, testing solutions and making changes without worrying about
 disrupting the main project, then having their finished solution verfied 
 and pushed back to main. It also allows public/open source code projects 
 to be made easily accesible and organized. 
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science is commonly applied to psychology. Not only is 
+careful experimental design particularly important, but careful statistical analysis of well organized 
+data is vital since topics in this field are often sensitive.
