@@ -18,3 +18,8 @@ Q3: What is the difference between Merging and Rebasing?
 Answer: Merging directly combines the editing histories of the two 
 branches as they happened, preserving both. Rebasing instead creates one 
 linear history by adding the branch changes onto the end of the main.  
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to doing some exploratory analysis for the 
+group project and fine tuning some coding skills I use for my job.
