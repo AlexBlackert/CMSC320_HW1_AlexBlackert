@@ -1,0 +1,8 @@
+Q1: Why might we consider using Git?
+
+Answer: Git allows multiple people to collaborate on a large, complicated 
+project from one repository. People can work on their own tasks in 
+branches, testing solutions and making changes without worrying about 
+disrupting the main project, then having their finished solution verfied 
+and pushed back to main. It also allows public/open source code projects 
+to be made easily accesible and organized. 
